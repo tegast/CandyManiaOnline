@@ -1,0 +1,3 @@
+# CandyManiaOnline
+
+WebGL Multiplayer game
